@@ -1,2 +1,5 @@
 # TasksbyMDTOUHID
- I was given these three tasks by my maternal uncle:
+ My maternal uncle gave me these three tasks:
+1)Present Time
+2)Today's Date
+3)Counting up from 1 to 1,000
